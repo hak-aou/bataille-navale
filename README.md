@@ -1,5 +1,5 @@
 # Bataille navale en Python
-#### *Auteur : Hakim AOUDIA,Sylvain TRAN*
+#### *Auteur : Hakim AOUDIA, Sylvain TRAN*
 #### *Langage : Python*
 #### *Date : 2020*
 #### *Niveau : L1, S1*
@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/106891439/218288052-4a601ab9-aa12-489d-9d96-fac3f5bc9c1f.png" width="50%" height="50%">
 </p>
+On a utilisé la bibliothèque graphique de l'université : fltk.
 
 ## Menu principal
 
