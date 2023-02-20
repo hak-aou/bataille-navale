@@ -36,13 +36,11 @@ Le joueur peut choisir parmi plusieurs types de bateaux, chacun ayant un nombre 
 - Navire de 4 case
 - Navire de 5 case
 - Navire de 6 case
+
 6 bateaux de chaque type au maximum.
 
 ## Positionnement des bateaux
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/106891439/218288411-54a8a975-dc44-4ddf-af3e-ae5f30984eb4.png" width="35%" height="35%">
-</p>
+<img src="https://user-images.githubusercontent.com/106891439/218288411-54a8a975-dc44-4ddf-af3e-ae5f30984eb4.png" width="35%" height="35%">
 Une fois que le joueur a choisi ses bateaux, il peut les positionner sur la grille de jeu. Il peut choisir de les placer verticalement ou horizontalement. 
 
 - Bouger avec touches directionnelles
